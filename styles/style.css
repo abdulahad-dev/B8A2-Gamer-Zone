@@ -1,0 +1,32 @@
+/* We are Gamer Styles */
+
+#we-are-gamer {
+    display: flex;
+}
+
+
+/* Funny Videos Section Styles */
+
+#funny-videos .videos {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+/* Careers Section styles */
+#careers {
+    display: flex;
+}
+
+#careers .career-list-items {
+    display: flex;
+}
+
+
+/* Game Types Section Styles  */
+#game-types {
+    display: flex;
+}
+
+#game-types .games-name {
+    display: flex;
+}
